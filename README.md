@@ -1,5 +1,5 @@
 # FlickPicks
-Personalized Movie Recommendations using Collaborative Filtering
+Personalized Movie Recommendations using Collaborative Filtering.
 FlickPicks aims to recommend movies that you'll enjoy based on the preferences of similar users. It leverages a technique called collaborative filtering, which analyzes user-movie interaction data to find patterns in taste.
 
 Breakdown of how FlickPicks might work:
